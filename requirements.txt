@@ -1,0 +1,5 @@
+keras
+annoy
+matplotlib
+opencv-python
+tensorflow
